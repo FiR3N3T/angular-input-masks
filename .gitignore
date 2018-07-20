@@ -4,7 +4,6 @@ bower-angular-input-masks
 coverage
 package-lock.json
 /*.log
-releases
 .tern-project
 .DS_Store
 *.swp
